@@ -1,0 +1,4 @@
+data/
+sparse_model/training/*.pth
+__pycache__/
+*.pyc
