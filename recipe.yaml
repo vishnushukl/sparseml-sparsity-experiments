@@ -1,0 +1,14 @@
+# Example Recipe for Sparsification
+modifiers:
+  - !EpochRangeModifier
+    start_epoch: 0.0
+    end_epoch: 5.0
+
+  - !GMPruningModifier
+    params: __ALL_PRUNABLE__    # Specifies all layers that can be pruned
+    start_epoch: 1.0
+    end_epoch: 4.0
+    update_frequency: 0.1
+    init_sparsity: 0.05
+    final_sparsity: 0.50
+    mask_type: unstructured

@@ -1,0 +1,17 @@
+
+    version: 1.1.0
+
+    training_modifiers:
+      - !EpochRangeModifier
+          start_epoch: 0.0
+          end_epoch: 10.0
+
+      - !GlobalMagnitudePruningModifier
+          params: __ALL_PRUNABLE__
+          start_epoch: 1.0
+          end_epoch: 8.0
+          update_frequency: 0.1
+          init_sparsity: 0.05
+          final_sparsity: 0.6
+          mask_type: unstructured
+    

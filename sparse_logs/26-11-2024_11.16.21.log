@@ -1,0 +1,961 @@
+Logging all SparseML modifier-level logs to sparse_logs/26-11-2024_11.16.21.log
+python GlobalMagnitudePruningModifier [1875 - 1732599985.759638]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.0| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [1875 - 1732599985.7847354]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [1875 - 1732599985.784932]: 0.05038265138864517
+python ParamPruning/fc2.weight [1875 - 1732599985.7850146]: 0.0
+python GlobalMagnitudePruningModifier [2063 - 1732599986.3018696]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.1002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2063 - 1732599986.302465]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2063 - 1732599986.302583]: 0.10459183156490326
+python ParamPruning/fc2.weight [2063 - 1732599986.3026469]: 0.0
+python GlobalMagnitudePruningModifier [2251 - 1732599986.772047]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.2005333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2251 - 1732599986.7726488]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2251 - 1732599986.772771]: 0.15497449040412903
+python ParamPruning/fc2.weight [2251 - 1732599986.7728317]: 0.0
+python GlobalMagnitudePruningModifier [2439 - 1732599987.2370536]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.3008| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2439 - 1732599987.23763]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2439 - 1732599987.237741]: 0.20216836035251617
+python ParamPruning/fc2.weight [2439 - 1732599987.2378156]: 0.0
+python GlobalMagnitudePruningModifier [2627 - 1732599987.6901186]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.4010666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2627 - 1732599987.6906676]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2627 - 1732599987.6907852]: 0.2455357164144516
+python ParamPruning/fc2.weight [2627 - 1732599987.6908488]: 0.0
+python GlobalMagnitudePruningModifier [2815 - 1732599988.144893]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.5013333333333332| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2815 - 1732599988.1454782]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2815 - 1732599988.145605]: 0.2857142686843872
+python ParamPruning/fc2.weight [2815 - 1732599988.145674]: 0.0
+python GlobalMagnitudePruningModifier [3003 - 1732599988.60477]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.6016| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3003 - 1732599988.6053364]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3003 - 1732599988.6054516]: 0.32334181666374207
+python ParamPruning/fc2.weight [3003 - 1732599988.6055157]: 0.0
+python GlobalMagnitudePruningModifier [3191 - 1732599989.0680752]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.7018666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3191 - 1732599989.0686712]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3191 - 1732599989.0687828]: 0.357142835855484
+python ParamPruning/fc2.weight [3191 - 1732599989.0688462]: 0.0
+python GlobalMagnitudePruningModifier [3379 - 1732599989.5090396]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.8021333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3379 - 1732599989.5096083]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3379 - 1732599989.5099733]: 0.388392835855484
+python ParamPruning/fc2.weight [3379 - 1732599989.5106897]: 0.0
+python GlobalMagnitudePruningModifier [3567 - 1732599989.9730432]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.9024| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3567 - 1732599989.9736521]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3567 - 1732599989.9737663]: 0.4164540767669678
+python ParamPruning/fc2.weight [3567 - 1732599989.9738317]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3755 - 1732599990.999678]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3755 - 1732599991.0003223]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3755 - 1732599991.0004587]: 0.4426020383834839
+python ParamPruning/fc2.weight [3755 - 1732599991.0005343]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3943 - 1732599991.4709847]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.1029333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3943 - 1732599991.4715717]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3943 - 1732599991.47169]: 0.46619898080825806
+python ParamPruning/fc2.weight [3943 - 1732599991.47176]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4131 - 1732599991.9637163]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.2032| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4131 - 1732599991.964288]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4131 - 1732599991.9644313]: 0.4872448742389679
+python ParamPruning/fc2.weight [4131 - 1732599991.9644983]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4319 - 1732599992.4330447]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.3034666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4319 - 1732599992.433633]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4319 - 1732599992.4337544]: 0.5063775181770325
+python ParamPruning/fc2.weight [4319 - 1732599992.4338143]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4507 - 1732599992.9072149]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.4037333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4507 - 1732599992.90783]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4507 - 1732599992.9079447]: 0.5229591727256775
+python ParamPruning/fc2.weight [4507 - 1732599992.9080048]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4695 - 1732599993.3674]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.504| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4695 - 1732599993.3679729]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4695 - 1732599993.3680835]: 0.5376275181770325
+python ParamPruning/fc2.weight [4695 - 1732599993.3681471]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4883 - 1732599993.8152826]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.6042666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4883 - 1732599993.8158753]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4883 - 1732599993.816037]: 0.5510203838348389
+python ParamPruning/fc2.weight [4883 - 1732599993.8161128]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5071 - 1732599994.264156]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.7045333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5071 - 1732599994.2648098]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5071 - 1732599994.2649305]: 0.5618622303009033
+python ParamPruning/fc2.weight [5071 - 1732599994.2650046]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5259 - 1732599994.7135184]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.8048| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5259 - 1732599994.714073]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5259 - 1732599994.7141879]: 0.5720663070678711
+python ParamPruning/fc2.weight [5259 - 1732599994.7142797]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5447 - 1732599995.158123]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.9050666666666665| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5447 - 1732599995.1586816]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5447 - 1732599995.158797]: 0.5797193646430969
+python ParamPruning/fc2.weight [5447 - 1732599995.1588562]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5635 - 1732599996.1715982]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.005333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5635 - 1732599996.1722245]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5635 - 1732599996.1723742]: 0.5867346525192261
+python ParamPruning/fc2.weight [5635 - 1732599996.17258]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5823 - 1732599996.6567454]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.1056| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5823 - 1732599996.657395]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5823 - 1732599996.6575172]: 0.5924744606018066
+python ParamPruning/fc2.weight [5823 - 1732599996.6575823]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6011 - 1732599997.1672106]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.2058666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6011 - 1732599997.1678967]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6011 - 1732599997.1680262]: 0.5969387888908386
+python ParamPruning/fc2.weight [6011 - 1732599997.1680903]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6199 - 1732599997.6417449]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.3061333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6199 - 1732599997.642306]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6199 - 1732599997.6424208]: 0.6001275181770325
+python ParamPruning/fc2.weight [6199 - 1732599997.6424837]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6387 - 1732599998.1129658]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.4064| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6387 - 1732599998.1135738]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6387 - 1732599998.1136897]: 0.6026785373687744
+python ParamPruning/fc2.weight [6387 - 1732599998.1137493]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6575 - 1732599998.5790465]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.506666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6575 - 1732599998.5796165]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6575 - 1732599998.5797281]: 0.6045918464660645
+python ParamPruning/fc2.weight [6575 - 1732599998.5797877]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6763 - 1732599999.0572329]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.606933333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6763 - 1732599999.0578263]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6763 - 1732599999.0579414]: 0.605867326259613
+python ParamPruning/fc2.weight [6763 - 1732599999.058008]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6951 - 1732599999.525444]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.7072000000000003| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6951 - 1732599999.5259843]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6951 - 1732599999.5260983]: 0.6065050959587097
+python ParamPruning/fc2.weight [6951 - 1732599999.5261614]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7139 - 1732599999.991848]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.8074666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7139 - 1732599999.9924006]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7139 - 1732599999.992549]: 0.6071428656578064
+python ParamPruning/fc2.weight [7139 - 1732599999.992615]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7327 - 1732600000.454085]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.9077333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7327 - 1732600000.4632697]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7327 - 1732600000.4634235]: 0.6071428656578064
+python ParamPruning/fc2.weight [7327 - 1732600000.4634995]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [1875 - 1732600011.9020329]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.0| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [1875 - 1732600011.9034576]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [1875 - 1732600011.9037228]: 0.05038265138864517
+python ParamPruning/fc2.weight [1875 - 1732600011.9039323]: 0.0
+python GlobalMagnitudePruningModifier [2063 - 1732600012.3482716]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.1002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2063 - 1732600012.3488784]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2063 - 1732600012.3490064]: 0.11415816098451614
+python ParamPruning/fc2.weight [2063 - 1732600012.349077]: 0.0
+python GlobalMagnitudePruningModifier [2251 - 1732600012.7650905]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.2005333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2251 - 1732600012.7656865]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2251 - 1732600012.7658472]: 0.1741071343421936
+python ParamPruning/fc2.weight [2251 - 1732600012.765913]: 0.0
+python GlobalMagnitudePruningModifier [2439 - 1732600013.1845477]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.3008| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2439 - 1732600013.1851175]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2439 - 1732600013.1852348]: 0.22959183156490326
+python ParamPruning/fc2.weight [2439 - 1732600013.1852987]: 0.0
+python GlobalMagnitudePruningModifier [2627 - 1732600013.614246]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.4010666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2627 - 1732600013.6148632]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2627 - 1732600013.615296]: 0.28125
+python ParamPruning/fc2.weight [2627 - 1732600013.6153653]: 0.0
+python GlobalMagnitudePruningModifier [2815 - 1732600014.0667155]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.5013333333333332| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2815 - 1732600014.0673256]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2815 - 1732600014.0674777]: 0.32844388484954834
+python ParamPruning/fc2.weight [2815 - 1732600014.0675452]: 0.0
+python GlobalMagnitudePruningModifier [3003 - 1732600014.566003]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.6016| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3003 - 1732600014.5666504]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3003 - 1732600014.5668752]: 0.37244898080825806
+python ParamPruning/fc2.weight [3003 - 1732600014.566936]: 0.0
+python GlobalMagnitudePruningModifier [3191 - 1732600015.0300012]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.7018666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3191 - 1732600015.0306218]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3191 - 1732600015.0307474]: 0.41262754797935486
+python ParamPruning/fc2.weight [3191 - 1732600015.0308135]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3379 - 1732600015.4899995]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.8021333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3379 - 1732600015.4905968]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3379 - 1732600015.490708]: 0.44961732625961304
+python ParamPruning/fc2.weight [3379 - 1732600015.4907687]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3567 - 1732600015.9096112]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.9024| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3567 - 1732600015.9108803]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3567 - 1732600015.9109933]: 0.483418345451355
+python ParamPruning/fc2.weight [3567 - 1732600015.9110582]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3755 - 1732600016.9276464]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3755 - 1732600016.9284418]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3755 - 1732600016.9285967]: 0.5140305757522583
+python ParamPruning/fc2.weight [3755 - 1732600016.9286807]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3943 - 1732600017.38704]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.1029333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3943 - 1732600017.3876445]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3943 - 1732600017.3877552]: 0.5420918464660645
+python ParamPruning/fc2.weight [3943 - 1732600017.387815]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4131 - 1732600017.8445811]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.2032| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4131 - 1732600017.8451638]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4131 - 1732600017.8452778]: 0.5669642686843872
+python ParamPruning/fc2.weight [4131 - 1732600017.845338]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4319 - 1732600018.272898]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.3034666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4319 - 1732600018.2734559]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4319 - 1732600018.2735775]: 0.5892857313156128
+python ParamPruning/fc2.weight [4319 - 1732600018.2736402]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4507 - 1732600018.6856472]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.4037333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4507 - 1732600018.6865716]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4507 - 1732600018.686736]: 0.6090561151504517
+python ParamPruning/fc2.weight [4507 - 1732600018.6868033]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4695 - 1732600019.0971158]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.504| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4695 - 1732600019.097703]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4695 - 1732600019.0978243]: 0.6269132494926453
+python ParamPruning/fc2.weight [4695 - 1732600019.0978854]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4883 - 1732600019.5341706]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.6042666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4883 - 1732600019.534747]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4883 - 1732600019.5348606]: 0.6422193646430969
+python ParamPruning/fc2.weight [4883 - 1732600019.5349252]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5071 - 1732600019.981448]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.7045333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5071 - 1732600019.9820209]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5071 - 1732600019.9821413]: 0.6549744606018066
+python ParamPruning/fc2.weight [5071 - 1732600019.9822016]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5259 - 1732600020.4243784]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.8048| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5259 - 1732600020.424947]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5259 - 1732600020.425062]: 0.6664540767669678
+python ParamPruning/fc2.weight [5259 - 1732600020.4251225]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5447 - 1732600020.8419857]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.9050666666666665| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5447 - 1732600020.842555]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5447 - 1732600020.8426743]: 0.6760203838348389
+python ParamPruning/fc2.weight [5447 - 1732600020.8427415]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5635 - 1732600021.8517134]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.005333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5635 - 1732600021.852377]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5635 - 1732600021.8527644]: 0.6843112111091614
+python ParamPruning/fc2.weight [5635 - 1732600021.8529353]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5823 - 1732600022.3060577]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.1056| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5823 - 1732600022.3066375]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5823 - 1732600022.3067505]: 0.6906887888908386
+python ParamPruning/fc2.weight [5823 - 1732600022.3068101]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6011 - 1732600022.749121]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.2058666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6011 - 1732600022.7497315]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6011 - 1732600022.749852]: 0.6957908272743225
+python ParamPruning/fc2.weight [6011 - 1732600022.749913]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6199 - 1732600023.2024858]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.3061333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6199 - 1732600023.203247]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6199 - 1732600023.2033744]: 0.7002550959587097
+python ParamPruning/fc2.weight [6199 - 1732600023.203455]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6387 - 1732600023.631764]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.4064| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6387 - 1732600023.632335]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6387 - 1732600023.6324592]: 0.7034438848495483
+python ParamPruning/fc2.weight [6387 - 1732600023.6325238]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6575 - 1732600024.0655777]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.506666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6575 - 1732600024.0661623]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6575 - 1732600024.0662956]: 0.7053571343421936
+python ParamPruning/fc2.weight [6575 - 1732600024.066372]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6763 - 1732600024.530086]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.606933333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6763 - 1732600024.530709]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6763 - 1732600024.530827]: 0.7066326141357422
+python ParamPruning/fc2.weight [6763 - 1732600024.5308948]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6951 - 1732600024.9789371]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.7072000000000003| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6951 - 1732600024.9795501]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6951 - 1732600024.9796941]: 0.7079081535339355
+python ParamPruning/fc2.weight [6951 - 1732600024.979754]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7139 - 1732600025.4257703]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.8074666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7139 - 1732600025.427304]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7139 - 1732600025.4274263]: 0.7079081535339355
+python ParamPruning/fc2.weight [7139 - 1732600025.4274921]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7327 - 1732600025.8797307]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.9077333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7327 - 1732600025.8803394]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7327 - 1732600025.880477]: 0.7085459232330322
+python ParamPruning/fc2.weight [7327 - 1732600025.8806357]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [1875 - 1732600037.029732]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.0| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [1875 - 1732600037.0305076]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [1875 - 1732600037.0306644]: 0.05038265138864517
+python ParamPruning/fc2.weight [1875 - 1732600037.0307448]: 0.0
+python GlobalMagnitudePruningModifier [2063 - 1732600037.5043023]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.1002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2063 - 1732600037.5048904]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2063 - 1732600037.5050054]: 0.11926019936800003
+python ParamPruning/fc2.weight [2063 - 1732600037.5050743]: 0.0
+python GlobalMagnitudePruningModifier [2251 - 1732600037.960645]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.2005333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2251 - 1732600037.9612367]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2251 - 1732600037.9613607]: 0.18367347121238708
+python ParamPruning/fc2.weight [2251 - 1732600037.9614415]: 0.0
+python GlobalMagnitudePruningModifier [2439 - 1732600038.4196815]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.3008| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2439 - 1732600038.4202764]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2439 - 1732600038.4203892]: 0.24298468232154846
+python ParamPruning/fc2.weight [2439 - 1732600038.420456]: 0.0
+python GlobalMagnitudePruningModifier [2627 - 1732600038.8876328]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.4010666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2627 - 1732600038.8882184]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2627 - 1732600038.8883395]: 0.2984693944454193
+python ParamPruning/fc2.weight [2627 - 1732600038.8884094]: 0.0
+python GlobalMagnitudePruningModifier [2815 - 1732600039.3688443]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.5013333333333332| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2815 - 1732600039.3697329]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2815 - 1732600039.3699262]: 0.35012754797935486
+python ParamPruning/fc2.weight [2815 - 1732600039.3699937]: 0.0
+python GlobalMagnitudePruningModifier [3003 - 1732600039.7941015]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.6016| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3003 - 1732600039.7947016]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3003 - 1732600039.794841]: 0.3973214328289032
+python ParamPruning/fc2.weight [3003 - 1732600039.7949]: 0.0
+python GlobalMagnitudePruningModifier [3191 - 1732600040.2190068]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.7018666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3191 - 1732600040.2200801]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3191 - 1732600040.2202215]: 0.44005101919174194
+python ParamPruning/fc2.weight [3191 - 1732600040.220288]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3379 - 1732600040.675665]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.8021333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3379 - 1732600040.6763268]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3379 - 1732600040.6768007]: 0.48022958636283875
+python ParamPruning/fc2.weight [3379 - 1732600040.6771252]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3567 - 1732600041.150016]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.9024| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3567 - 1732600041.1505973]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3567 - 1732600041.1507182]: 0.5165815949440002
+python ParamPruning/fc2.weight [3567 - 1732600041.1507769]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3755 - 1732600042.219274]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3755 - 1732600042.219871]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3755 - 1732600042.219993]: 0.5497449040412903
+python ParamPruning/fc2.weight [3755 - 1732600042.2200613]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3943 - 1732600042.7040431]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.1029333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3943 - 1732600042.7046766]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3943 - 1732600042.7048092]: 0.5797193646430969
+python ParamPruning/fc2.weight [3943 - 1732600042.7048788]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4131 - 1732600043.1432033]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.2032| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4131 - 1732600043.1442027]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4131 - 1732600043.1443202]: 0.6065050959587097
+python ParamPruning/fc2.weight [4131 - 1732600043.1443892]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4319 - 1732600043.6085415]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.3034666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4319 - 1732600043.6091452]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4319 - 1732600043.609284]: 0.6307398080825806
+python ParamPruning/fc2.weight [4319 - 1732600043.6093485]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4507 - 1732600044.0881972]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.4037333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4507 - 1732600044.08888]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4507 - 1732600044.0890677]: 0.6524234414100647
+python ParamPruning/fc2.weight [4507 - 1732600044.0891392]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4695 - 1732600044.5639017]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.504| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4695 - 1732600044.5645247]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4695 - 1732600044.5646574]: 0.670918345451355
+python ParamPruning/fc2.weight [4695 - 1732600044.564725]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4883 - 1732600045.0431728]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.6042666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4883 - 1732600045.0446665]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4883 - 1732600045.044804]: 0.6875
+python ParamPruning/fc2.weight [4883 - 1732600045.0448692]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5071 - 1732600045.5036962]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.7045333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5071 - 1732600045.5043056]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5071 - 1732600045.5044467]: 0.7015305757522583
+python ParamPruning/fc2.weight [5071 - 1732600045.5045123]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5259 - 1732600045.9920802]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.8048| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5259 - 1732600045.9927332]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5259 - 1732600045.9930952]: 0.714285671710968
+python ParamPruning/fc2.weight [5259 - 1732600045.993621]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5447 - 1732600046.4489243]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.9050666666666665| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5447 - 1732600046.4495492]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5447 - 1732600046.4496915]: 0.7244898080825806
+python ParamPruning/fc2.weight [5447 - 1732600046.4497504]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5635 - 1732600047.5098495]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.005333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5635 - 1732600047.5115037]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5635 - 1732600047.5116591]: 0.7327805757522583
+python ParamPruning/fc2.weight [5635 - 1732600047.511733]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5823 - 1732600047.9900787]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.1056| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5823 - 1732600047.9906623]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5823 - 1732600047.9907696]: 0.7404336333274841
+python ParamPruning/fc2.weight [5823 - 1732600047.9908295]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6011 - 1732600048.4842298]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.2058666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6011 - 1732600048.4849372]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6011 - 1732600048.4850748]: 0.745535671710968
+python ParamPruning/fc2.weight [6011 - 1732600048.4851613]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6199 - 1732600048.9900284]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.3061333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6199 - 1732600048.9906175]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6199 - 1732600048.9907293]: 0.75
+python ParamPruning/fc2.weight [6199 - 1732600048.990788]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6387 - 1732600049.4713762]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.4064| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6387 - 1732600049.4722657]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6387 - 1732600049.4725375]: 0.7531887888908386
+python ParamPruning/fc2.weight [6387 - 1732600049.47266]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6575 - 1732600049.9792163]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.506666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6575 - 1732600049.9798377]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6575 - 1732600049.979966]: 0.7557398080825806
+python ParamPruning/fc2.weight [6575 - 1732600049.980036]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6763 - 1732600050.4641583]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.606933333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6763 - 1732600050.464718]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6763 - 1732600050.4648333]: 0.7570152878761292
+python ParamPruning/fc2.weight [6763 - 1732600050.4648929]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6951 - 1732600050.954227]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.7072000000000003| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6951 - 1732600050.9548342]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6951 - 1732600050.9551404]: 0.7582908272743225
+python ParamPruning/fc2.weight [6951 - 1732600050.9552007]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7139 - 1732600051.4216294]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.8074666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7139 - 1732600051.4224522]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7139 - 1732600051.4228256]: 0.7589285373687744
+python ParamPruning/fc2.weight [7139 - 1732600051.4228883]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7327 - 1732600051.9139297]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.9077333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7327 - 1732600051.9151154]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7327 - 1732600051.9152691]: 0.7589285373687744
+python ParamPruning/fc2.weight [7327 - 1732600051.9153497]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [1875 - 1732600063.3282027]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.0| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [1875 - 1732600063.3289933]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [1875 - 1732600063.32915]: 0.05038265138864517
+python ParamPruning/fc2.weight [1875 - 1732600063.3292363]: 0.0
+python GlobalMagnitudePruningModifier [2063 - 1732600063.7718801]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.1002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2063 - 1732600063.7725568]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2063 - 1732600063.7727554]: 0.12436224520206451
+python ParamPruning/fc2.weight [2063 - 1732600063.7728314]: 0.0
+python GlobalMagnitudePruningModifier [2251 - 1732600064.2132306]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.2005333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2251 - 1732600064.2141235]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2251 - 1732600064.2142467]: 0.19323979318141937
+python ParamPruning/fc2.weight [2251 - 1732600064.2143092]: 0.0
+python GlobalMagnitudePruningModifier [2439 - 1732600064.6612387]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.3008| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2439 - 1732600064.6618288]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2439 - 1732600064.6619558]: 0.25701528787612915
+python ParamPruning/fc2.weight [2439 - 1732600064.6620238]: 0.0
+python GlobalMagnitudePruningModifier [2627 - 1732600065.1030607]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.4010666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2627 - 1732600065.1036718]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2627 - 1732600065.1037953]: 0.3163265287876129
+python ParamPruning/fc2.weight [2627 - 1732600065.103862]: 0.0
+python GlobalMagnitudePruningModifier [2815 - 1732600065.5707242]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.5013333333333332| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [2815 - 1732600065.5713387]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [2815 - 1732600065.5714817]: 0.3711734712123871
+python ParamPruning/fc2.weight [2815 - 1732600065.5715523]: 0.0
+python GlobalMagnitudePruningModifier [3003 - 1732600066.027652]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.6016| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3003 - 1732600066.0282402]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3003 - 1732600066.028354]: 0.42155611515045166
+python ParamPruning/fc2.weight [3003 - 1732600066.0284185]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3191 - 1732600066.4912732]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.7018666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3191 - 1732600066.4918532]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3191 - 1732600066.4919693]: 0.4681122303009033
+python ParamPruning/fc2.weight [3191 - 1732600066.4920306]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3379 - 1732600066.9476893]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.8021333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3379 - 1732600066.9482856]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3379 - 1732600066.9483943]: 0.5108418464660645
+python ParamPruning/fc2.weight [3379 - 1732600066.9484842]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3567 - 1732600067.4064682]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 1.9024| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3567 - 1732600067.407087]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3567 - 1732600067.407195]: 0.5497449040412903
+python ParamPruning/fc2.weight [3567 - 1732600067.4072545]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3755 - 1732600068.4512203]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.002666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3755 - 1732600068.4518604]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3755 - 1732600068.4519818]: 0.5854591727256775
+python ParamPruning/fc2.weight [3755 - 1732600068.452048]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [3943 - 1732600068.9038963]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.1029333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [3943 - 1732600068.9044993]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [3943 - 1732600068.904635]: 0.6173469424247742
+python ParamPruning/fc2.weight [3943 - 1732600068.9046934]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4131 - 1732600069.3411996]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.2032| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4131 - 1732600069.3417916]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4131 - 1732600069.3419034]: 0.6466836333274841
+python ParamPruning/fc2.weight [4131 - 1732600069.341968]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4319 - 1732600069.7815301]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.3034666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4319 - 1732600069.7821171]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4319 - 1732600069.7822347]: 0.6721938848495483
+python ParamPruning/fc2.weight [4319 - 1732600069.7822964]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4507 - 1732600070.1945953]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.4037333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4507 - 1732600070.1951985]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4507 - 1732600070.1953177]: 0.6951530575752258
+python ParamPruning/fc2.weight [4507 - 1732600070.1953816]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4695 - 1732600070.604452]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.504| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4695 - 1732600070.605028]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4695 - 1732600070.6051629]: 0.7155612111091614
+python ParamPruning/fc2.weight [4695 - 1732600070.6052248]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [4883 - 1732600071.0710425]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.6042666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [4883 - 1732600071.0716212]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [4883 - 1732600071.071758]: 0.7327805757522583
+python ParamPruning/fc2.weight [4883 - 1732600071.0718153]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5071 - 1732600071.5308285]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.7045333333333335| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5071 - 1732600071.5313945]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5071 - 1732600071.5315208]: 0.74808669090271
+python ParamPruning/fc2.weight [5071 - 1732600071.5315835]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5259 - 1732600071.996652]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.8048| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5259 - 1732600071.997265]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5259 - 1732600071.9973788]: 0.7614795565605164
+python ParamPruning/fc2.weight [5259 - 1732600071.9974418]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5447 - 1732600072.478126]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 2.9050666666666665| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5447 - 1732600072.4788277]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5447 - 1732600072.478989]: 0.7723214030265808
+python ParamPruning/fc2.weight [5447 - 1732600072.4790878]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5635 - 1732600073.5710082]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.005333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5635 - 1732600073.5717576]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5635 - 1732600073.571928]: 0.7818877100944519
+python ParamPruning/fc2.weight [5635 - 1732600073.5720212]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [5823 - 1732600074.0659971]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.1056| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [5823 - 1732600074.0666919]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [5823 - 1732600074.0668554]: 0.7895408272743225
+python ParamPruning/fc2.weight [5823 - 1732600074.0669389]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6011 - 1732600074.5726511]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.2058666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6011 - 1732600074.573248]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6011 - 1732600074.5733852]: 0.7952805757522583
+python ParamPruning/fc2.weight [6011 - 1732600074.5734744]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6199 - 1732600075.0125384]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.3061333333333334| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6199 - 1732600075.0131233]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6199 - 1732600075.0132577]: 0.8003826141357422
+python ParamPruning/fc2.weight [6199 - 1732600075.0133195]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6387 - 1732600075.4330015]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.4064| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6387 - 1732600075.4336085]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6387 - 1732600075.43375]: 0.8035714030265808
+python ParamPruning/fc2.weight [6387 - 1732600075.4338367]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6575 - 1732600075.8668907]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.506666666666667| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6575 - 1732600075.8675108]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6575 - 1732600075.8676283]: 0.8061224222183228
+python ParamPruning/fc2.weight [6575 - 1732600075.8676984]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6763 - 1732600076.3246107]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.606933333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6763 - 1732600076.325214]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6763 - 1732600076.3253536]: 0.808035671710968
+python ParamPruning/fc2.weight [6763 - 1732600076.3254263]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [6951 - 1732600076.7998967]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.7072000000000003| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [6951 - 1732600076.80051]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [6951 - 1732600076.8006353]: 0.8086734414100647
+python ParamPruning/fc2.weight [6951 - 1732600076.8006992]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7139 - 1732600077.2866516]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.8074666666666666| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7139 - 1732600077.2872272]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7139 - 1732600077.2873695]: 0.8093112111091614
+python ParamPruning/fc2.weight [7139 - 1732600077.2874367]: 0.05000000074505806
+python GlobalMagnitudePruningModifier [7327 - 1732600077.7493346]: Calling update with:
+args: <class '__main__.SimpleNN'>| <class 'torch.optim.sgd.SGD'>| 
+kwargs: epoch: 3.9077333333333333| steps_per_epoch: 1875| 
+python GlobalMagnitudePruningModifier [7327 - 1732600077.750295]: 
+Returned: <class 'NoneType'>| 
+
+python ParamPruning/fc1.weight [7327 - 1732600077.7504437]: 0.8093112111091614
+python ParamPruning/fc2.weight [7327 - 1732600077.7505178]: 0.05000000074505806
